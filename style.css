@@ -27,7 +27,7 @@
     height: 60px;
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(225, 225, 225, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
-    background: transparent;
+    background: #fae3f8;
     font-size:20px;
     color: #eb75cfdb;
     cursor: pointer;
@@ -35,7 +35,7 @@
 }
 
 form .display{
-    background-color: #fbebf7;
+    background-color: #fae3f8;
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
@@ -53,5 +53,5 @@ form input.equal{
 }
 
 form input.operator{
-    color: #eb75cfdb;
+    color: #d051b2db;
 }
